@@ -8,15 +8,15 @@
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://imgur.com/SK8TMYY.gif" alt="Intro">
+    <img width="250" style="border-radius: 5px" height="450" src="https://imgur.com/PRu9Kja.gif" alt="List">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://imgur.com/vgVlHwE.gif" alt="Register adopt">
+    <img width="250" style="border-radius: 5px" height="450" src="https://imgur.com/7HaALPg.gif" alt="Details">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://imgur.com/3taQ68G.gif" alt="Chat">
+    <img width="250" style="border-radius: 5px" height="450" src="https://imgur.com/WbubDiM.gif" alt="Search">
   </kbd>
 </p>
 
